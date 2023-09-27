@@ -1,0 +1,36 @@
+body {
+    margin-inline: 0px;
+}
+.center {
+    margin:  auto;
+    display: block;
+    
+}
+.subtitles {
+    background-color: #fdfbf1;
+    text-align: center;
+    padding: 10px;
+    margin: 20px 0px;
+    border-top: solid 2px #fee9b4;
+    color: #195958;
+}
+main {
+    width: 60%;
+    margin-inline: auto;
+}
+main img {
+    width: 100%;
+    border-radius: 6px;
+}
+main h1 {
+    margin-top: 50px;
+}
+.author {
+    text-align: center;
+    color: rgb(151, 151, 151);
+}
+.featured {
+    border-left: solid 2px #fee9b4;
+    padding-left: 7px;
+    color: #e9a700;
+}
