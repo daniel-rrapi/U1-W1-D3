@@ -34,3 +34,23 @@ main h1 {
     padding-left: 7px;
     color: #e9a700;
 }
+.chapters {
+    font-size: 30px;
+    border-bottom: solid 2px #a9dddb;
+    padding: 20px;
+    margin-top: 40px;
+}
+.titles {
+    font-size: large;
+    
+}
+div ul li {
+    padding:15px;
+}
+footer {
+    width: 60%;
+    margin-inline: auto;
+}
+#method {
+    margin-inline-start: 40px
+}
